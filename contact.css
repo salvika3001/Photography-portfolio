@@ -1,0 +1,19 @@
+.new-section {
+   
+    height: 300%;
+    
+    background:rgb(17,17,17);
+    color: white;
+    font-family: 'Mate SC', serif;
+    padding-bottom: 100px;
+   
+    
+
+  }
+  
+  
+  
+  .field{
+      font-size: 12px;
+      font-family: 'Mate SC', serif;
+  }
